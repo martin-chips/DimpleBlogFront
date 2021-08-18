@@ -41,11 +41,11 @@
                         </div>
                     </Divider>
                     <div class="desc">
-                        首页地址：https://www.bianxiaofeng.com <br>
-                        友链地址：https://www.bianxiaofeng.com/link.html<br>
+                        首页地址：https://www.bianxiaofeng.com.cn <br>
+                        友链地址：https://www.bianxiaofeng.com.cn/link.html<br>
                         网站名称：Dimple的个人博客<br>
                         网站描述：边小丰的个人博客，记录学习，记录生活。<br>
-                        网站图标地址：https://www.bianxiaofeng.com/favicon.ico
+                        网站图标地址：https://www.bianxiaofeng.com.cn/favicon.ico
                     </div>
                     <Divider orientation="left">
                         <div class="header" style=";">

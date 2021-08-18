@@ -12,13 +12,13 @@
                                         程&nbsp;序：基于SpringBoot开发的个人博客程序。 <span class="wb_url"><a
                                             href="https://github.com/DimpleFeng/DimpleBlog"
                                             target="_blank">GitHub</a></span><br>
-                                        域&nbsp;名：www.bianxiaofeng.com，创建于2017<span class="wb_url"><a
+                                        域&nbsp;名：www.bianxiaofeng.com.cn，创建于2017<span class="wb_url"><a
                                             href="https://wanwang.aliyun.com/"
                                             target="_blank">注册域名</a></span><br>
                                         服务器：阿里云轻量级应用服务器(2G)<span class="wb_url"><a
                                             href="https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=3viaxu0k"
                                             target="_blank">购买空间</a></span><br>
-                                        备案号：蜀ICP备 19004343<br>
+                                        备案号：蜀ICP备2021019933号-1<br>
                                     </div>
                                 </div>
                                 <h5>搭建博客目的 | Goal：</h5>
